@@ -1,0 +1,11 @@
+@import "var";
+
+body{
+
+	background : $brandColor;
+
+	.header{
+		background: darken($brandColor, 10%);
+	}
+
+}
